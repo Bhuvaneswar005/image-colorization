@@ -17,3 +17,17 @@ Image Colorization using CNN is a testament to the capabilities of deep learning
 - **LAB Color Space:** By using the LAB color space and predicting 'a' and 'b' channels, we ensure that the colorization results are vivid, visually pleasing, and natural.
 
 - **Legacy Image Colorization:** Our model is versatile and capable of colorizing contemporary and historical images, preserving their original charm.
+
+### Results
+
+Original 
+![1950_nyc2](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/fa654319-182b-4fcc-a547-591800f77d51)
+
+Colorized
+![1950_nyc2](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/5a410732-cafd-4dac-9778-04882c0e87ff)
+
+Original
+![ansel_adams](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/2576cc4c-e1f7-47a4-a9aa-ee88bb8f0a85)
+
+Colorized
+![ansel_adams](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/2d852dcd-becd-48b2-80bd-7d6f62ea4663)
