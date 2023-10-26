@@ -18,12 +18,14 @@ Image Colorization using CNN is a testament to the capabilities of deep learning
 
 - **Legacy Image Colorization:** Our model is versatile and capable of colorizing contemporary and historical images, preserving their original charm.
 
-### Results
+## Results
 
 Original 
+
 ![1950_nyc2](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/fa654319-182b-4fcc-a547-591800f77d51)
 
 Colorized
+
 ![1950_nyc2](https://github.com/Bhuvaneswar005/image-colorization/assets/80323398/5a410732-cafd-4dac-9778-04882c0e87ff)
 
 Original
